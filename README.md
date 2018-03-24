@@ -1,2 +1,2 @@
 # medclinic-larissatam
-Medical Clinic Website Demo for Dr. Larissa Tam
+Medical Clinic Web Application Demo for Dr. Larissa Tam
